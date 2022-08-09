@@ -1,4 +1,4 @@
-### Hi there 👋
+I'll be Front-end Developer
 
 <!--
 **jisoo0822/jisoo0822** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
